@@ -107,3 +107,11 @@ Output: 1.09033141072737
 Input: sqrt(PySuperDecimal("6.25"))
 
 Output: 2.5
+
+### Source Code
+
+Source code of PySuperDecimal type is available at https://github.com/CreativeCloudAppDev2020/PySuperDecimal/blob/master/code/PySuperDecimal.py.
+
+### Tests
+
+The test cases of PySuperDecimal type is available at https://github.com/CreativeCloudAppDev2020/PySuperDecimal/blob/master/tests/TestPySuperDecimal.py.
